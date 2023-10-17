@@ -1,0 +1,12 @@
+ color-pallet:-
+ 
+ tea green:ccd5ae
+ beige:e9edc9
+ cornsilk:fefae0
+ papaya whip:faedcd
+ buff:d4a373
+
+font-family:-
+ 
+ FontName:young serif
+ Font Link:https://fonts.google.com/specimen/Young+Serif
